@@ -1,0 +1,78 @@
+li{
+		border: 1px solid black;
+		border-radius: 10px;
+		
+		width: 300px;
+		height: 30px;
+		text-align: center;
+		color: black;
+
+	}
+
+	#result{
+		
+		text-align: center;
+		margin-top: 100px;
+		
+		
+
+
+	}
+	div {
+		
+		height: 60px;
+		 
+		
+
+	}
+	#addbtn{
+		width: 100px;
+		background-color: red;	
+		box-shadow: 1px 1px 1px red;
+		border: 1px solid red;
+	
+
+
+	}
+	#btn1{
+
+		margin-left: 100px;
+
+	}
+	#contact{
+		margin-right: 5px;
+	}
+	#randombutton:active{
+			 background-color: darkred;
+ 			box-shadow: 0 5px #666;
+ 			 transform: translateY(4px);
+
+	}
+	#randombutton{
+		padding: 15px 25px;
+		margin-top: 30px;	
+		margin-left: 43%;
+		width: 200px;
+		background-color: red;	
+		box-shadow: 1px 1px 1px red;
+		border: 1px solid red;
+		font-size: 30px;
+		cursor: pointer;
+		
+  		box-shadow: 0 5px #999;
+	}
+	input {
+		margin-top: 10px;
+
+		margin-left: 10px;
+		margin-right: 10px;
+		height: 35px;
+		width: 300px;
+	}
+	#addbtn:active{
+		width: 100px;
+		background-color: darkred;	
+		box-shadow: 1px 1px 1px darkred;
+		border: 1px solid darkred;
+
+	}	
